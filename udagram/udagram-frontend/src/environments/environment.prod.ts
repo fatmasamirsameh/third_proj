@@ -4,7 +4,7 @@
 
 export const environment = {
   production: true,
-  appName: "Udagram",
+  appName: "bucketdeploment",
   apiHost: "http://localhost:8080/api/v0",
 };
 
