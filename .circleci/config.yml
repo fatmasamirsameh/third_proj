@@ -25,7 +25,7 @@ jobs:
             echo $(npm --version)
             npm run frontend:install
       # TODO: Install dependencies in the the backend API  
-       - run:
+      - run:
           name: Installing AWS Elasticbeanstalk
           command: |
             npm run backend:aws-eb          
