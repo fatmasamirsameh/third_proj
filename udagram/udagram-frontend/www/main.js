@@ -1955,7 +1955,7 @@ __webpack_require__.r(__webpack_exports__);
 var environment = {
     production: false,
     appName: 'Appbackend',
-    apiHost: 'http://Appbackend-env.eba-fewmvdmm.us-east-1.elasticbeanstalk.com:8080/api/v0'
+    apiHost: 'http://Appbackend-env.eba-fewmvdmm.us-east-1.elasticbeanstalk.com/api/v0'
 };
 /*
  * For easier debugging in development mode, you can import the following file
