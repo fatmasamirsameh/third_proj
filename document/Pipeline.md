@@ -1,6 +1,6 @@
 
 ## Pipeline Architecture
-![Pipeline Architecture](circleci.JPG)
+![Pipeline Architecture](build-deploy_pipeline.JPG)
 
 The main `package.json` have the pipeline process.
 
